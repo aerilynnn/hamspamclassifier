@@ -1,1 +1,1 @@
-# Naives Bayes based ham/spam classifier
+Naives Bayes based ham/spam classifier
